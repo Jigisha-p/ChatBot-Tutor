@@ -1,11 +1,10 @@
-# ChatGPT API:
-The release of the chatGPT API allows for a new interface to utilize the language models specifically designed for dialogue.
-
-The API call can take a series of messages for context, allowing for a conversation between the "user" (the human using the system) and the "assistant" (the response from the model)
-
-These key differences in the context of dialogue are all passed into a parameter called "messages", that accepts a list of dictionaries that define the system role and then a dialogue conversation.
-
-
 # History ChatBot Tutor
-This a simple chatbot, similar to the one on the ChatGPT website.
-We'll give it the context of being a US History Tutor
+
+### Project Description: 
+Developed an interactive and educational chatbot leveraging GPT-3 and OpenAI API to serve as a virtual US History Tutor. Designed to engage users in historical discussions and provide informative responses, the chatbot enhances learning experiences through dynamic conversations.
+
+### Project Highlights:
+- Created an AI-powered chatbot serving as a virtual US History Tutor to engage users in historical conversations.
+- Utilized GPT-3 and OpenAI API to generate informative and contextually relevant responses.
+- Enhanced user learning experiences by providing personalized historical insights and explanations.
+- Designed the chatbot with an intuitive interface, offering a dynamic and educational interaction.
